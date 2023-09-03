@@ -30,6 +30,8 @@
   <ProfileSection />
   <AboutSection />
   <ExperienceSection />
+  <ContactSection />
+  
   </div>  
 </template>
 
@@ -37,12 +39,14 @@
 import AboutSection from "./components/AboutSection.vue";
 import ProfileSection from "./components/ProfileSection.vue";
 import ExperienceSection from "./components/ExperienceSection.vue";
+import ContactSection from "./components/ContactSection.vue";
 export default {
   name: "App",
   components: {
     ProfileSection,
     AboutSection,
     ExperienceSection,
+    ContactSection,
   },
   methods: {
     toggleMenu() {
