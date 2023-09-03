@@ -27,14 +27,16 @@
       </div>
     </div>
   </nav>
-  </div>
-  
+  <ProfileSection />
+  </div>  
 </template>
 
 <script>
+import ProfileSection from "./components/ProfileSection.vue";
 export default {
   name: "App",
   components: {
+    ProfileSection
   },
   methods: {
     toggleMenu() {
