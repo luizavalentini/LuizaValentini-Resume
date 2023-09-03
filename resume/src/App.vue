@@ -29,17 +29,20 @@
   </nav>
   <ProfileSection />
   <AboutSection />
+  <ExperienceSection />
   </div>  
 </template>
 
 <script>
 import AboutSection from "./components/AboutSection.vue";
 import ProfileSection from "./components/ProfileSection.vue";
+import ExperienceSection from "./components/ExperienceSection.vue";
 export default {
   name: "App",
   components: {
     ProfileSection,
-    AboutSection
+    AboutSection,
+    ExperienceSection,
   },
   methods: {
     toggleMenu() {
