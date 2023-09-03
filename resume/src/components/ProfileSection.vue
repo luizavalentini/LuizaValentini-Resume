@@ -49,7 +49,7 @@ export default {
   },
 };
 </script>
-<style>
+<style >
 section {
   padding-top: 4vh;
   height: 96vh;
