@@ -30,8 +30,10 @@
   <ProfileSection />
   <AboutSection />
   <ExperienceSection />
+  <ProjectsSection />
   <ContactSection />
   <FooterSection />
+
   
   </div>  
 </template>
@@ -40,6 +42,7 @@
 import AboutSection from "./components/AboutSection.vue";
 import ProfileSection from "./components/ProfileSection.vue";
 import ExperienceSection from "./components/ExperienceSection.vue";
+import ProjectsSection from "./components/ProjectsSection.vue";
 import ContactSection from "./components/ContactSection.vue";
 import FooterSection from "./components/FooterSection.vue";
 export default {
@@ -48,6 +51,7 @@ export default {
     ProfileSection,
     AboutSection,
     ExperienceSection,
+    ProjectsSection,
     ContactSection,
     FooterSection,
   },

@@ -36,7 +36,7 @@
             </div>
           </div>
           <div class="text-container">
-            <p>
+            <p class="about-me-text">
               Student of the sixth semester from the course of Software
               Engineering from the Pontifical Catholic University of Rio Grande do
               Sul. After the past years I started to be very interested in
@@ -113,5 +113,8 @@
     height: 400px;
     width: 400px;
     margin: auto 0;
+  }
+  .about-me-text{
+    text-align: justify;
   }
   </style>
