@@ -31,6 +31,7 @@
   <AboutSection />
   <ExperienceSection />
   <ContactSection />
+  <FooterSection />
   
   </div>  
 </template>
@@ -40,6 +41,7 @@ import AboutSection from "./components/AboutSection.vue";
 import ProfileSection from "./components/ProfileSection.vue";
 import ExperienceSection from "./components/ExperienceSection.vue";
 import ContactSection from "./components/ContactSection.vue";
+import FooterSection from "./components/FooterSection.vue";
 export default {
   name: "App",
   components: {
@@ -47,6 +49,7 @@ export default {
     AboutSection,
     ExperienceSection,
     ContactSection,
+    FooterSection,
   },
   methods: {
     toggleMenu() {
