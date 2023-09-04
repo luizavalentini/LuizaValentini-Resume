@@ -19,7 +19,7 @@
                 class="icon"
               />
               <h3>Experience</h3>
-              <p>Frontend Development</p>
+              <p>Frontend development</p>
               <p>Mobile Development</p>
             </div>
             <div class="details-container">
@@ -40,7 +40,7 @@
               Student of the sixth semester from the course of Software
               Engineering from the Pontifical Catholic University of Rio Grande do
               Sul. After the past years I started to be very interested in
-              frontend development, not just by usual purposes, but also for the
+              frontend and mobile development, not just by usual purposes, but also for the
               innovation prospects, that help to make a difference in the world. I
               recognize the necessity to be always learning, and I’m open to do
               that everyday. My profile, is of someone creative, persistent and

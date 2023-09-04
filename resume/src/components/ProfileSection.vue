@@ -7,14 +7,9 @@
     <div class="section__text">
       <p class="section__text__p1">Hello, I'm</p>
       <h1 class="title">Luiza Valentini</h1>
-      <p class="section__text__p2">Frontend Developer</p>
+      <p class="section__text__p2">Software Developer</p>
       <div class="btn-container">
-          <button
-          class="btn btn-color-2"
-        >
-          Download CV
-        </button>
-        <button class="btn btn-color-1" >
+        <button class="btn btn-color-1" onclick="location.href='./#contact'">
           Contact Info
         </button>
       </div>
@@ -43,9 +38,7 @@ export default {
     openLink(url) {
       window.open(url);
     },
-   redirectToContact() {
-      window.location.href = "#contact";
-},
+
   },
 };
 </script>

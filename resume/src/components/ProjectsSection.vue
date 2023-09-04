@@ -7,7 +7,7 @@
         <div class="details-container color-container">
           <div class="article-container">
             <img
-              src="../assets/project-1.png"
+              src="../assets/enadeapp.png"
               alt="Project 1"
               class="project-img"
             />
@@ -25,7 +25,7 @@
         <div class="details-container color-container">
           <div class="article-container">
             <img
-              src="../assets/project-2.png"
+              src="../assets/denunciaaviolencia.png"
               alt="Project 2"
               class="project-img"
             />
@@ -43,7 +43,7 @@
         <div class="details-container color-container">
           <div class="article-container">
             <img
-              src="../assets/project-3.png"
+              src="../assets/project-idoso+.png"
               alt="Project 3"
               class="project-img"
             />
@@ -53,24 +53,6 @@
             <button
               class="btn btn-color-2 project-btn"
               @click="openLink('https://tools.ages.pucrs.br/idoso-mais/idoso-mais-wiki/-/wikis/home') "
-            >
-            Wiki Page
-            </button>
-          </div>
-        </div>
-        <div class="details-container color-container">
-          <div class="article-container">
-            <img
-              src="../assets/project-3.png"
-              alt="Project 3"
-              class="project-img"
-            />
-          </div>
-          <h2 class="experience-sub-title project-title">Profit</h2>
-          <div class="btn-container">
-            <button
-              class="btn btn-color-2 project-btn"
-              @click="openLink('https://www.nelogica.com.br/produtos') "
             >
             Wiki Page
             </button>
