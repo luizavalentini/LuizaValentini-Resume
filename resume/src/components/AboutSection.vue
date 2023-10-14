@@ -30,7 +30,7 @@
               />
               <h3>Education</h3>
               <p>
-                Software Engineering Bachelors Degree – Conclusion: 2024/2<br />Pontifical
+                Software Engineering Bachelors Degree – Conclusion: 2025/2<br />Pontifical
                 Catholic University of Rio Grande do Sul (PUCRS)
               </p>
             </div>
